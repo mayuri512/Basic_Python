@@ -1,0 +1,21 @@
+Notes:
+
+container in which we store data value
+
+In Python 
+Variable is a container in which we store data value and its size/type depends on data.
+
+Variable is a container in which we store instance or data
+
+type
+size 
+
+Variable name rulrs:
+1. do not start with number
+2. do not use space.
+3. do not use special any symbol expect under score_
+
+SYNTAX:
+                   vaiablename = data/expression
+
+Note: withodut data we cant assume variable in python                   
