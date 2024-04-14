@@ -41,7 +41,4 @@ Python has 3 key Conditional Statements that you should know:
 
 
 
-# Loops. 
-# Functions. 
-# Libraries.
-# Classes and Objects.
+ 
