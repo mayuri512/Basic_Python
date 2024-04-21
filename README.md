@@ -34,7 +34,9 @@ Python has 3 key Conditional Statements that you should know:
 
 # if statement:-if statement is a condition statement used to check a condition, and execute it if the condition holds true.
 # if-else statement:-if-else statement is used to execute both the true part and the false part of a given condition. 
-# if-elif-else statement:- 
+# if-elif-else statement:-  If that is false, the elif statement is evaluated. In case the elif condition is false, the else statement is evaluated.
+# WHILE LOOP :- while loop we can execute a set of statements as long as a condition is true.
+
 
 
 
